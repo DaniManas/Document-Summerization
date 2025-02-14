@@ -34,7 +34,7 @@ If App in sleep mode please wake it up using the button you see on the web-page.
 ### Installation  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/Kratik-Rathi/DocuVerse.git  
+   git clone https://github.com/DaniManas/Document-Summerization
    cd DocuVerse  
    ```  
 
